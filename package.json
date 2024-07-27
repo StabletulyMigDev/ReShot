@@ -2,7 +2,7 @@
   "name": "ReShot",
   "version": "0.0.1",
   "description": "Usb Drive backup maker",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron ."
   },
