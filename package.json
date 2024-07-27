@@ -1,0 +1,21 @@
+{
+  "name": "ReShot",
+  "version": "0.0.1",
+  "description": "Usb Drive backup maker",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-sample"
+  },
+  "keywords": [
+   
+  ],
+  "author": "Miguel Vicente",
+  "license": "GPL 3.0"
+}
