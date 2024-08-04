@@ -32,9 +32,19 @@ $pallet: (
   'text': #cad3f5,
   'subtext1': #b8c0e0,
   'subtext0': #a5adcb,
-  'overlay': #939ab7
+  'overlay': #939ab7,
+  'base': #24273a,
+  'mantle': #1e2030,
+  'crust': #181926
 );
 
-body {
+header {
     font-family: 'Courier New', Courier, monospace;
+    background: $base;
+    color: $text;
+    text-align: center;
+}
+
+#MainBtn, #SecBtn {
+  // add buttons style
 }
