@@ -1,3 +1,7 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './style.scss';
+
 export default function MyApp() {
   return (
     <div>
