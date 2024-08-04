@@ -35,7 +35,8 @@ $pallet: (
   'overlay': #939ab7,
   'base': #24273a,
   'mantle': #1e2030,
-  'crust': #181926
+  'crust': #181926,
+  'lavander2': #7287fd
 );
 
 header {
@@ -46,5 +47,15 @@ header {
 }
 
 #MainBtn, #SecBtn {
-  // add buttons style
+  border-radius: 4px;
+  background: $lavander2;
+  color: $text;
 }
+
+#SnapShotBtn {
+  border-radius: 12px;
+  background: $red;
+  color: $text;
+}
+
+
